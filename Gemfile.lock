@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    myfirstgem (0.1.4)
+      puma (~> 6.0.0)
+      rack (~> 3.0.0)
+    nio4r (2.5.8)
+    puma (6.0.0)
+      nio4r (~> 2.0)
+    rack (3.0.1)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  myfirstgem (~> 0.1)
+
+BUNDLED WITH
+   2.2.32
